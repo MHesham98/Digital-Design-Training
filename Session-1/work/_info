@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Projects/Labs
+Eand_2bit
+Z1 w1567858955
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8.\and_2bit.vhd
+Z6 F.\and_2bit.vhd
+l0
+L5
+VGWU8eYkjMfL9V2z1;>_9B3
+!s100 0K5OiG8g0k:9b@j62>XBY2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1567859168
+!i10b 1
+Z9 !s108 1567859168.000000
+Z10 !s90 .\and_2bit.vhd|
+Z11 !s107 .\and_2bit.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 8 and_2bit 0 22 GWU8eYkjMfL9V2z1;>_9B3
+l11
+L10
+V<NjnU5VXkmL[9l?]ZOLl@2
+!s100 S[IbLT_@T7BkCz8OVbJ9D1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Edecoder
+Z13 w1567863134
+R2
+R3
+R4
+R0
+Z14 8.\decoder.vhd
+Z15 F.\decoder.vhd
+l0
+L5
+VQfV?:]ZY5QfM8dHS:gELm1
+!s100 AD[O]P2k6SWdQ6YzR?=Qg0
+R7
+32
+Z16 !s110 1567863153
+!i10b 1
+Z17 !s108 1567863153.000000
+Z18 !s90 .\decoder.vhd|
+Z19 !s107 .\decoder.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 7 decoder 0 22 QfV?:]ZY5QfM8dHS:gELm1
+l11
+L10
+V<Xh<ILz>nR617_m]GB;?k0
+!s100 b[IKL_>]k_OXFI=<LF6b=3
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+Emux
+Z20 w1567863828
+R2
+R3
+R4
+R0
+Z21 8.\mux.vhd
+Z22 F.\mux.vhd
+l0
+L5
+V@<B=abHeG^RjX8W[YTF3T3
+!s100 o6Qm;bm?agZI]U<Ci<1i93
+R7
+32
+Z23 !s110 1567863838
+!i10b 1
+Z24 !s108 1567863838.000000
+Z25 !s90 .\mux.vhd|
+Z26 !s107 .\mux.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 3 mux 0 22 @<B=abHeG^RjX8W[YTF3T3
+l12
+L11
+Vo>F8>mQH@AVZjCoPdMSo20
+!s100 m:1EK`WAFi<Mzc<NUG=:X2
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+Eor_and
+Z27 w1567861216
+R2
+R3
+R4
+R0
+Z28 8.\or_and.vhd
+Z29 F.\or_and.vhd
+l0
+L5
+Vf=SZElPbZVRZcV]kA77=`1
+!s100 YI`<W;fjMWQD;H0<bJRz80
+R7
+32
+Z30 !s110 1567861218
+!i10b 1
+Z31 !s108 1567861218.000000
+Z32 !s90 .\or_and.vhd|
+Z33 !s107 .\or_and.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 6 or_and 0 22 f=SZElPbZVRZcV]kA77=`1
+l12
+L10
+V<0D:G91<A]17l6:n[iENW3
+!s100 He>bG[XXLQaKQJ<JcQleC3
+R7
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R12

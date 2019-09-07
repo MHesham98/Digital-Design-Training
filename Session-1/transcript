@@ -1,0 +1,27 @@
+# OpenFile ./mux.vhd
+vsim work.mux
+# vsim work.mux 
+# Start time: 15:44:18 on Sep 07,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.mux(rtl)
+add wave -position end  sim:/mux/a
+add wave -position end  sim:/mux/s
+add wave -position end  sim:/mux/y
+do C:/Projects/Labs/forces.mux.do
+run
+restart
+do C:/Projects/Labs/forces.mux.do
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# End time: 15:51:06 on Sep 07,2019, Elapsed time: 0:06:48
+# Errors: 0, Warnings: 0
