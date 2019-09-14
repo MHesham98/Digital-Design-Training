@@ -1,0 +1,211 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Documents/GitHub/Digital-Design-Training/Session-1-HW
+Eadder
+Z1 w1568428861
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8binary-adder-8-bit.vhd
+Z7 Fbinary-adder-8-bit.vhd
+l0
+L6
+VWV3Z[dA_FSj@_fMD9FjHQ1
+!s100 HNU@z0nizekIok@Oha9LM2
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1568428866
+!i10b 1
+Z10 !s108 1568428866.000000
+Z11 !s90 binary-adder-8-bit.vhd|
+Z12 !s107 binary-adder-8-bit.vhd|
+!i113 1
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 5 adder 0 22 WV3Z[dA_FSj@_fMD9FjHQ1
+l12
+L11
+V0I4bjFLRIY2ROoh:K0^bi3
+!s100 4Y2]02CCGHCfNO=H`olFJ3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Ecomparator
+Z14 w1568429379
+R2
+R3
+R4
+R5
+R0
+Z15 8comparator-4-bit.vhd
+Z16 Fcomparator-4-bit.vhd
+l0
+L6
+VWH7GVH^RN8zRJh?6<a>R[1
+!s100 6N8fz3>m9[Qf@_e1O5RQQ0
+R8
+32
+Z17 !s110 1568429381
+!i10b 1
+Z18 !s108 1568429381.000000
+Z19 !s90 comparator-4-bit.vhd|
+Z20 !s107 comparator-4-bit.vhd|
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 10 comparator 0 22 WH7GVH^RN8zRJh?6<a>R[1
+l14
+L13
+V5lZg<jKKJS5jG9Ym:X@d;1
+!s100 19Ge>_IE<KaKbKB9Oa;]o3
+R8
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R13
+Ecounter
+Z21 w1568428131
+R2
+R3
+R4
+R5
+R0
+Z22 8counter-4-bit-sync.vhd
+Z23 Fcounter-4-bit-sync.vhd
+l0
+L6
+VXi9DOiLizW`]>6e]Z5KVP1
+!s100 UC0BekV:8;W94j58M?<Gk2
+R8
+32
+Z24 !s110 1568428143
+!i10b 1
+Z25 !s108 1568428143.000000
+Z26 !s90 counter-4-bit-sync.vhd|
+Z27 !s107 counter-4-bit-sync.vhd|
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 7 counter 0 22 Xi9DOiLizW`]>6e]Z5KVP1
+l14
+L12
+VVaAQSHg`;9i>PbI7:<6;N2
+!s100 ;5kzlEcT?3iLfB:fUT[n[1
+R8
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R13
+Edecoder
+Z28 w1568423613
+R3
+R4
+R5
+R0
+Z29 8decoder-3-8-enable.vhd
+Z30 Fdecoder-3-8-enable.vhd
+l0
+L5
+V`_hO3nBHhdidC3=i=_hJ^2
+!s100 kP3RXZW2W^19j99dJTNM70
+R8
+32
+Z31 !s110 1568423615
+!i10b 1
+Z32 !s108 1568423615.000000
+Z33 !s90 decoder-3-8-enable.vhd|
+Z34 !s107 decoder-3-8-enable.vhd|
+!i113 1
+R13
+Artl
+R3
+R4
+R5
+DEx4 work 7 decoder 0 22 `_hO3nBHhdidC3=i=_hJ^2
+l12
+L11
+V83NVioW_lMjYgiUk?I83A1
+!s100 >L0^LajWE6=:zjL7K<W2b1
+R8
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R13
+Edff
+Z35 w1568428542
+R3
+R4
+R5
+R0
+Z36 8DFF.vhd
+Z37 FDFF.vhd
+l0
+L5
+V^:2V_cT?eF]P3`[NWK^ZF2
+!s100 ?8[Fd595D<?6TUX<1<oWE0
+R8
+32
+Z38 !s110 1568428544
+!i10b 1
+Z39 !s108 1568428543.000000
+Z40 !s90 DFF.vhd|
+Z41 !s107 DFF.vhd|
+!i113 1
+R13
+Artl
+R3
+R4
+R5
+DEx4 work 3 dff 0 22 ^:2V_cT?eF]P3`[NWK^ZF2
+l12
+L10
+Von@9E<25S@iI?6L=Zo<V<2
+!s100 jJW_>IK7[@>DO>_IeAM=z1
+R8
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R13
