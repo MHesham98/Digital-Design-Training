@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Documents/GitHub/Digital-Design-Training/Session-2/Workflow Counter
+Ecount_bin
+Z1 w1568465444
+Z2 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 g8;l:a_bzlE?3R3d7zk3Z0
+Z3 DPx10 cycloneive 21 cycloneive_components 0 22 Yj^f[Ven<H;0LiK:6PWEg0
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+R0
+Z10 8./quartus/count_bin/simulation/modelsim/count_bin.vho
+Z11 F./quartus/count_bin/simulation/modelsim/count_bin.vho
+l0
+L80
+VX?z9eI0HlAjf^cNlS_B6;1
+!s100 ld5;;3]h116nhjTFgKmA@0
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1568465503
+!i10b 1
+Z14 !s108 1568465502.000000
+Z15 !s90 ./quartus/count_bin/simulation/modelsim/count_bin.vho|
+Z16 !s107 ./quartus/count_bin/simulation/modelsim/count_bin.vho|
+!i113 1
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 9 count_bin 0 22 X?z9eI0HlAjf^cNlS_B6;1
+l134
+L97
+V0miC0aYFZmFGiHN75eGcA3
+!s100 hbJai_md>hEPA0>eFCgM]1
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+Artl
+Z18 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R7
+R8
+DEx4 work 9 count_bin 0 22 a=[>PgJ3=4YmSmhHz2:?h0
+l14
+L12
+VlY>^E[VRPn<gF[8TRMZ;W0
+!s100 >RaFmb28STCo=X7?<PmHJ0
+R12
+32
+!s110 1568463783
+!i10b 1
+!s108 1568463783.000000
+!s90 count-bin.vhd|
+!s107 count-bin.vhd|
+!i113 1
+R17
+Fcount-bin.vhd
+w1568463604
+8count-bin.vhd
+Ecounter_bin
+Z19 w1568463466
+R18
+R7
+R8
+R0
+Z20 8counter-bin.vhd
+Z21 Fcounter-bin.vhd
+l0
+L7
+VbPC@J1IBRKKY[PTE?b9O?1
+!s100 ;bXfCNBa_Yk5n=;]6RTE41
+R12
+32
+Z22 !s110 1568463480
+!i10b 1
+Z23 !s108 1568463480.000000
+Z24 !s90 counter-bin.vhd|
+Z25 !s107 counter-bin.vhd|
+!i113 1
+R17
+Artl
+R18
+R7
+R8
+DEx4 work 11 counter_bin 0 22 bPC@J1IBRKKY[PTE?b9O?1
+l14
+L12
+V^;BiQ_VX`WKh>k=OgoLbc0
+!s100 YDI8AE=QN=ojmL07n6FTo2
+R12
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R17
+Ehard_block
+R1
+R4
+R2
+R6
+R7
+R8
+R3
+R0
+R10
+R11
+l0
+L35
+VF2XQElaI`gXj<O]Y^RnRF0
+!s100 >mXi5[`cD`bFC`UBKA<om3
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+Astructure
+R4
+R2
+R6
+R7
+R8
+R3
+DEx4 work 10 hard_block 0 22 F2XQElaI`gXj<O]Y^RnRF0
+l65
+L51
+VH>T1zENXMCahKdJeR7Mkf2
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17

@@ -1,0 +1,49 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Documents/GitHub/Digital-Design-Training/Static RAM
+Eram_16x8bit
+Z1 w1569685531
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8static_ram.vhd
+Z6 Fstatic_ram.vhd
+l0
+L7
+Ved0U53bZ9DC=mZ;6EF1AI2
+!s100 W3h6M8g6oE??4V<=WTkl^3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1569685534
+!i10b 1
+Z9 !s108 1569685534.000000
+Z10 !s90 static_ram.vhd|
+Z11 !s107 static_ram.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z13 DEx4 work 11 ram_16x8bit 0 22 ed0U53bZ9DC=mZ;6EF1AI2
+l17
+L13
+V:I]9LkUYhAB?BF@==hYj02
+!s100 <JV8g<?;aE:n^6:6cTO4A2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

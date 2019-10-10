@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Documents/GitHub/Digital-Design-Training/Counter&Testbench
+Ecount_sp
+Z1 w1569687640
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8count_sp.vhd
+Z6 Fcount_sp.vhd
+l0
+L5
+VYXim3I;zKYXTj=L<]o@F11
+!s100 AWja3g][B@3TV^V4TB7K80
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1569687668
+!i10b 1
+Z9 !s108 1569687668.000000
+Z10 !s90 count_sp.vhd|
+Z11 !s107 count_sp.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 8 count_sp 0 22 YXim3I;zKYXTj=L<]o@F11
+l13
+L11
+VBY^[h[OEQM1n=A@cdOQoz2
+!s100 ^MALz3TL^kGdDOX=JC@3A0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecount_sp_tb
+Z13 w1569688139
+R2
+R3
+R4
+R0
+Z14 8count_sp_tb.vhd
+Z15 Fcount_sp_tb.vhd
+l0
+L6
+V:O<8]YcXkfHaM`A9HgzRI2
+!s100 S51L>c1XY65_9f5?A70[13
+R7
+32
+Z16 !s110 1569688156
+!i10b 1
+Z17 !s108 1569688156.000000
+Z18 !s90 count_sp_tb.vhd|
+Z19 !s107 count_sp_tb.vhd|
+!i113 1
+R12
+Abehav
+R2
+R3
+R4
+Z20 DEx4 work 11 count_sp_tb 0 22 :O<8]YcXkfHaM`A9HgzRI2
+l25
+L9
+Vf89JFZ;dfP:D9k0bjYASm0
+!s100 mTg8AQdIA4D=lEff><m_X1
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12

@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Documents/GitHub/Digital-Design-Training/Session-2
+Ecount_2bit
+Z1 w1568462181
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8counter-2-bit.vhd
+Z6 Fcounter-2-bit.vhd
+l0
+L5
+VF=2GA:MFgWVJYO5<TNe?`3
+!s100 _69;d8GJH5VTP?7aE<IhU1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1568462189
+!i10b 1
+Z9 !s108 1568462189.000000
+Z10 !s90 counter-2-bit.vhd|
+Z11 !s107 counter-2-bit.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 10 count_2bit 0 22 F=2GA:MFgWVJYO5<TNe?`3
+l13
+L11
+VWQ[U7>m_Ah40`nzC7gfK51
+!s100 ^kaY<F;RdAh<:NWA@YDb=2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecount_5bit
+Z13 w1568462100
+R2
+R3
+R4
+R0
+Z14 8Traffic-light.vhd
+Z15 FTraffic-light.vhd
+l0
+L5
+V?O1@>7@[9Yo_6dUELkCP@3
+!s100 CRLMH2z6mVi<DWIH0VZDU2
+R7
+32
+Z16 !s110 1568462102
+!i10b 1
+Z17 !s108 1568462102.000000
+Z18 !s90 Traffic-light.vhd|
+Z19 !s107 Traffic-light.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 10 count_5bit 0 22 ?O1@>7@[9Yo_6dUELkCP@3
+l13
+L11
+Vm4E`U2ge:9S?39Z7ELMCS1
+!s100 5azoIS?<nQhz:@9F6MJ?52
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12

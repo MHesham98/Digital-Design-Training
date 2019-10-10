@@ -91,37 +91,35 @@ R20
 !i113 1
 R13
 Ecounter
-Z21 w1568428131
-R2
+Z21 w1568453815
 R3
 R4
 R5
 R0
-Z22 8counter-4-bit-sync.vhd
-Z23 Fcounter-4-bit-sync.vhd
+Z22 8counter-controller.vhd
+Z23 Fcounter-controller.vhd
 l0
-L6
-VXi9DOiLizW`]>6e]Z5KVP1
-!s100 UC0BekV:8;W94j58M?<Gk2
+L12
+V<S@fNDkfC3@_:>KK1YX>_2
+!s100 KZQSK0C[bo_mkZldboi2d0
 R8
 32
-Z24 !s110 1568428143
+Z24 !s110 1568453817
 !i10b 1
-Z25 !s108 1568428143.000000
-Z26 !s90 counter-4-bit-sync.vhd|
-Z27 !s107 counter-4-bit-sync.vhd|
+Z25 !s108 1568453817.000000
+Z26 !s90 counter-controller.vhd|
+Z27 !s107 counter-controller.vhd|
 !i113 1
 R13
 Artl
-R2
 R3
 R4
 R5
-DEx4 work 7 counter 0 22 Xi9DOiLizW`]>6e]Z5KVP1
-l14
-L12
-VVaAQSHg`;9i>PbI7:<6;N2
-!s100 ;5kzlEcT?3iLfB:fUT[n[1
+Z28 DEx4 work 7 counter 0 22 <S@fNDkfC3@_:>KK1YX>_2
+l21
+L19
+Voao2hgz;eMTZ3FmR6iFME0
+!s100 O4S@ld]ShP65QWGl[S;iA3
 R8
 32
 R24
@@ -132,24 +130,24 @@ R27
 !i113 1
 R13
 Edecoder
-Z28 w1568423613
+Z29 w1568423613
 R3
 R4
 R5
 R0
-Z29 8decoder-3-8-enable.vhd
-Z30 Fdecoder-3-8-enable.vhd
+Z30 8decoder-3-8-enable.vhd
+Z31 Fdecoder-3-8-enable.vhd
 l0
 L5
 V`_hO3nBHhdidC3=i=_hJ^2
 !s100 kP3RXZW2W^19j99dJTNM70
 R8
 32
-Z31 !s110 1568423615
+Z32 !s110 1568423615
 !i10b 1
-Z32 !s108 1568423615.000000
-Z33 !s90 decoder-3-8-enable.vhd|
-Z34 !s107 decoder-3-8-enable.vhd|
+Z33 !s108 1568423615.000000
+Z34 !s90 decoder-3-8-enable.vhd|
+Z35 !s107 decoder-3-8-enable.vhd|
 !i113 1
 R13
 Artl
@@ -163,32 +161,32 @@ V83NVioW_lMjYgiUk?I83A1
 !s100 >L0^LajWE6=:zjL7K<W2b1
 R8
 32
-R31
-!i10b 1
 R32
+!i10b 1
 R33
 R34
+R35
 !i113 1
 R13
 Edff
-Z35 w1568428542
+Z36 w1568428542
 R3
 R4
 R5
 R0
-Z36 8DFF.vhd
-Z37 FDFF.vhd
+Z37 8DFF.vhd
+Z38 FDFF.vhd
 l0
 L5
 V^:2V_cT?eF]P3`[NWK^ZF2
 !s100 ?8[Fd595D<?6TUX<1<oWE0
 R8
 32
-Z38 !s110 1568428544
+Z39 !s110 1568428544
 !i10b 1
-Z39 !s108 1568428543.000000
-Z40 !s90 DFF.vhd|
-Z41 !s107 DFF.vhd|
+Z40 !s108 1568428543.000000
+Z41 !s90 DFF.vhd|
+Z42 !s107 DFF.vhd|
 !i113 1
 R13
 Artl
@@ -202,10 +200,49 @@ Von@9E<25S@iI?6L=Zo<V<2
 !s100 jJW_>IK7[@>DO>_IeAM=z1
 R8
 32
-R38
-!i10b 1
 R39
+!i10b 1
 R40
 R41
+R42
+!i113 1
+R13
+Ep_reg
+Z43 w1568451447
+R3
+R4
+R5
+R0
+Z44 8parallel-register-load.vhd
+Z45 Fparallel-register-load.vhd
+l0
+L5
+VI`o;@?T3>N9Q=hhhXG6V21
+!s100 ^`;QX4@;AIUeLNCQaHk<^0
+R8
+32
+Z46 !s110 1568451449
+!i10b 1
+Z47 !s108 1568451449.000000
+Z48 !s90 parallel-register-load.vhd|
+Z49 !s107 parallel-register-load.vhd|
+!i113 1
+R13
+Artl
+R3
+R4
+R5
+DEx4 work 5 p_reg 0 22 I`o;@?T3>N9Q=hhhXG6V21
+l13
+L11
+Vc6eEo`UoI[7zWGL<=aaDW3
+!s100 _8:`ojRfb`KR0YDOIDmBz3
+R8
+32
+R46
+!i10b 1
+R47
+R48
+R49
 !i113 1
 R13

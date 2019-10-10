@@ -1,21 +1,21 @@
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_arith.all;
-use IEEE.std_logic_unsigned.all; -- Added this to be able to add numbers to the signal as without it you can't add numbers on it
+
 
 entity counter is 
     port(clk: in std_logic;
-    y: out std_logic_vector(7 downto 0);
+    y: out unsigned(7 downto 0);
     enable: in std_logic);
 end counter;
 
 architecture rtl of counter is
-    signal cnt: std_logic_vector(7 downto 0); -- a signal was added because we can't add numbers to outputs
+    signal cnt: unsigned(7 downto 0); -- a signal was added because we can't add numbers to outputs// we are using unsigned better than using a package which wil breate us some complications in some cases
         begin
             process(clk, enable)
             begin
                 if(enable = '0') then cnt <= cnt ;
-                elsif(clk'event and clk='1' and cnt ="UUUUUUUU" ) then cnt <= "00000000"; -- is this synthisizable ?
+                elsif(clk'event and clk='1' and cnt ="UUUUUUUU" ) then cnt <= "00000000"; -- is this synthisizable ? // We Shouldn't care for this case as this will work as a power on reset device
                 else
                 cnt <= cnt+1;
                 end if;

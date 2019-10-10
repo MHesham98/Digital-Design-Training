@@ -3,7 +3,7 @@ Write VHDL code and simulate the following design components:
 1- Decoder 4_16 </>
 2- Decoder 3_8 with enable </>
 3- Counter 4 bit with async. reset </>
-4- Parallel Register 8 bit with load
+4- Parallel Register 8 bit with load </>
 5- Shift register 8 bit, with shift left and right
 6- Multiplexer 8_1 </>
 7- Counter 8 bit with enable </> -- problem of synthisis?
@@ -11,6 +11,6 @@ Write VHDL code and simulate the following design components:
 9- Counter 4 bit with sync. clear </>
 10- 8-bit binary adder</>
 11- 4-bit equality comparator </>
-12- Counter 4 bit with count up, count down and load initial value controls
+12- Counter 4 bit with count up, count down and load initial value controls </>
 
 

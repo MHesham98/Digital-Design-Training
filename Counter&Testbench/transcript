@@ -1,0 +1,17 @@
+# OpenFile count_sp_tb.vhd
+vsim work.count_sp_tb
+# vsim work.count_sp_tb 
+# Start time: 18:29:36 on Sep 28,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.count_sp_tb(behav)
+# Loading work.count_sp(rtl)
+add wave -position end  sim:/count_sp_tb/d
+add wave -position 0  sim:/count_sp_tb/ctrl
+add wave -position end  sim:/count_sp_tb/count
+add wave -position 0  sim:/count_sp_tb/clk
+run
+# End time: 19:01:40 on Sep 28,2019, Elapsed time: 0:32:04
+# Errors: 0, Warnings: 0
