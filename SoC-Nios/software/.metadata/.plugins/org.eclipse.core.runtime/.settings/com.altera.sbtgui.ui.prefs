@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=C\:\\projects\\SoC-Nios\\software\\hello_world
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\projects\\SoC-Nios\\nios_system.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\projects\\SoC-Nios\\software\\hello_world_bsp

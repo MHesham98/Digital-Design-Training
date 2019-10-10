@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Oct 05 19:56:44 2019
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : soc_nios
+Top-level Entity Name : soc_nios
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 1,866 / 22,320 ( 8 % )
+    Total combinational functions : 1,732 / 22,320 ( 8 % )
+    Dedicated logic registers : 1,039 / 22,320 ( 5 % )
+Total registers : 1039
+Total pins : 10 / 154 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 404,480 / 608,256 ( 66 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
